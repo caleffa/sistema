@@ -1,6 +1,6 @@
 <html>
     <head>
-        <tittle>Prueba de GIT</tittle>
+        <title>Prueba de GIT</title>
     </head>
     <body>
         <h2><strong>Bitweb</strong> GIT</h2>
